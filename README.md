@@ -1,4 +1,4 @@
-# 微信支付 for nodejs
+# 微信支付 for nodejs 基于tenpay 优化
 [![travis][travis]][travis-u] [![npm][npm]][npm-u] [![node][node]][node-u] [![issues][issues]][issues-u] [![commit][commit]][commit-u]
 
 ## 功能概述

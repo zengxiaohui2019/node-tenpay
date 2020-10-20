@@ -1,7 +1,7 @@
 {
-  "name": "tenpay",
+  "name": "tenpay-zengxiaohui",
   "version": "2.1.19",
-  "description": "微信支付 for nodejs",
+  "description": "微信支付 for nodejs 基于tenpay 优化",
   "main": "./lib",
   "scripts": {
     "test": "mocha",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/befinal/node-tenpay.git"
+    "url": "git://github.com/zengxiaohui2019/node-tenpay.git"
   },
   "engines": {
     "node": ">= 8.3.0"
@@ -25,9 +25,9 @@
   "author": "Eric",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/befinal/node-tenpay/issues"
+    "url": "https://github.com/zengxiaohui2019/node-tenpay/issues"
   },
-  "homepage": "https://github.com/befinal/node-tenpay#readme",
+  "homepage": "https://github.com/zengxiaohui2019/node-tenpay#readme",
   "dependencies": {
     "urllib": "^2.33.0",
     "xml2js": "^0.4.19"

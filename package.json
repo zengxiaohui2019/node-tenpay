@@ -1,6 +1,6 @@
 {
   "name": "tenpay-zengxiaohui",
-  "version": "2.1.19",
+  "version": "2.1.20",
   "description": "微信支付 for nodejs 基于tenpay 优化",
   "main": "./lib",
   "scripts": {
